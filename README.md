@@ -3,18 +3,15 @@
 
 - ⚡ A fact about me **I love coding**
 
-<!--- 📄 Know about my experiences from <a href="">My Resume</a>-->
-
-<h3 align="center">My accounts</h3>
-
-<p align="left">
 - 📫 How to reach me **youssry.essam2111@gmail.com**
+<h3 align="center">My accounts</h3>
 - 📝 My LinkedIn profile :<a href="https://www.linkedin.com/in/yousryessam">LinkedIn profile</a>
 - 📝 My CodeForces profile :<a href="https://codeforces.com/profile/Yousry_Essam">CodeForces profile</a>
 - 📝 My leetcode profile :<a href="https://leetcode.com/Yousry_Essam/">leetcode profile</a>
 - 📝 My HacerRank profile :<a href="https://www.hackerrank.com/Yousry_Essam">HacerRank profile</a>
 - 📝 My Vjudge profile :<a href="https://vjudge.net/user/yousry21">Vjudge profile</a>
-</p>
+<!--- 📄 Know about my experiences from <a href="">My Resume</a>-->
+
 
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
