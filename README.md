@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yousry Essam</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousry+Essam)](https://git.io/typing-svg)
+<!--<h1 align="center">Hi 👋, I'm Yousry Essam</h1>-->
+<h2></h2>
+
 <h3 align="center">Software Engineer Student || Competitive programmer || Mentor at ICPC Assuit Community </h3>
 
 - ⚡ A fact about me **I love coding**
