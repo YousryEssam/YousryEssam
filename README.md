@@ -27,6 +27,10 @@
   <a href="https://codeforces.com/profile/Yousry_Essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yousry_Essam" height="30" width="40" /> </a>
   <a href="https://www.hackerrank.com/profile/Yousry_Essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yousry_Essam" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Yousry_Essam" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Yousry_Essam" height="30" width="40" /> </a>
+ <a href="https://youtube.com/@yousry_essam?si=o9qn_xdH5t9q2366" target="_blank"> 
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Yousry_Essam" height="30" width="40" /> 
+</a>
+
 </p>
 
 
