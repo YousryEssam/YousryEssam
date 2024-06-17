@@ -12,6 +12,10 @@
 - ⚡ A fact about me <strong>I love coding </strong>
 <br/>
 <br/>
+ <!-- <div align="center">
+  <img src="https://profile-counter.glitch.me/YousryEssam/count.svg?" />
+  </div>
+  <br/> -->
 </p>
 
 <h2 align="left">
@@ -57,16 +61,19 @@
 </p>
 
 ## 🔥 Streak Stats
-
 <p align="center">
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YousryEssam&show_icons=true&locale=en" alt="YousryEssam" /></p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YousryEssam&show_icons=true&locale=en&layout=compact" alt="YousryEssam" style="width: 45%; height: auto;" />
+  </p>
+  <br/>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YousryEssam&show_icons=true&locale=en" alt="YousryEssam" />
+  </p>
   <br/>
   <br/>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YousryEssam&" alt="YousryEssam" /></p>  
-  <br/>
-  <br/>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YousryEssam&show_icons=true&locale=en&layout=compact" alt="YousryEssam" /></p>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YousryEssam&" alt="YousryEssam" />
+  </p>  
 </p>
-
 <h2>🏆 Git Profile Stats</h2>
 <p align=""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YousryEssam" alt="YousryEssam" /></a> </p>
