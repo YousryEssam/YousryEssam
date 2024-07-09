@@ -24,7 +24,7 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=32 height=32>
   Connect with me 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> :
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
 <p align="center">
  <a href="mailto:youssry.essam2111@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" />
@@ -72,7 +72,7 @@
   <br/>
 </p>
 
-<h2 align="center"> <img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">  Overall Stats <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> </h2>
+<h2 align="center"> <img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">  Overall Stats  <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> </h2>
 
 <table align="center">
   <tr>
