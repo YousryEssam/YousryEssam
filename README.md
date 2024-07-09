@@ -1,8 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Yousry+Essam)](https://git.io/typing-svg)
 <!--<h1 align="center">Hi 👋, I'm Yousry Essam</h1>-->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Yousry+Essam)](https://git.io/typing-svg)
 <p> 
 <h2 align="center">Software Engineer || Instructor & Mentor at ICPC EELU Community || Competitive programmer || Mentor at ICPC Assuit Community </h2>
+ <h6 align="center"><img src="https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 9-7-2024</i></h6>
+ <div align=center>
+      <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
+</div>
 - 📫 How to reach me <b>See "Connect with me" section</b>
 <br/>
 <br/>
@@ -19,8 +22,10 @@
 </p>
 
 <h2 align="left">
-  <img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
-  Connect with me:</h2>
+  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>
+  Connect with me :
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+</h2>
 <p align="left">
   <a href="mailto:youssry.essam2111@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="30" /></a>
 <a href="https://www.linkedin.com/in/yousryessam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yousry Essam" height="30" width="40" /></a>
@@ -64,7 +69,7 @@
   <br/>
 </p>
 
-## 🔥 Streak Stats
+<h2> <img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Streak Stats </h2>
 <p align="center">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YousryEssam&show_icons=true&locale=en&layout=compact" alt="YousryEssam" style="width: 45%; height: auto;" />
