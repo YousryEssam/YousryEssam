@@ -9,7 +9,7 @@
 - 📫 How to reach me <b>See "Connect with me" section</b>
 <br/>
 <br/>
-- 📄 Know about my experiences from <a href="https://drive.google.com/file/d/1XJzOA3l681sMVJIWTwysU50QLM5vFpPD/view?usp=sharing">My curriculum vitae</a>
+- 📄 Know about my experiences from <a href="https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=drive_link">My CV</a>
 <br/>
 <br/>
 - ⚡ A fact about me <strong>I love coding </strong>
