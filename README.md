@@ -9,8 +9,13 @@
 - 📫 How to reach me <b>See "Connect with me" section</b>
 <br/>
 <br/>
-- 📄 Know about my experiences from <a href="https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=drive_link">My CV</a>
+- 📄 Know about my experiences from <b><a href="https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=drive_link"> my resume</a></b>
 <br/>
+<br/>
+This is a web-based version of my resume, created using HTML and hosted on GitHub Pages. You can visit the live website by following the link below:
+
+- <b> [Visit my resume Website](https://YousryEssam.github.io) </b>
+
 <br/>
 - ⚡ A fact about me <strong>I love coding </strong>
 <br/>
