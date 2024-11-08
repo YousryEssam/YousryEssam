@@ -17,7 +17,9 @@
  <br>  <br> 
  Or 
  <br> <br>
-See my web-based version of my re⚡ume <b>  [Visit my Portfolio Website](https://YousryEssam.github.io) </b>
+
+ 
+See my web-based version of my re⚡ume <b><a href="https://YousryEssam.github.io"> Visit my Portfolio Website</a> </b>
 </h3>
 <!-- 
 This is a , created using HTML and hosted on GitHub Pages. You can visit the live website by following the link below:
