@@ -4,7 +4,11 @@
 
 <div>
 	<!-- Profile Views -->
-	<img src="https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20views&color=0e75b6&style=flat" alt="counter"/> <b> <i>This counter was added on 9-7-2024</i></b>
+	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width= 100% align="center"/>
+	<div align="center">
+		<img src="https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20views&color=0e75b6&style=flat" align="center" alt="counter"/> <b> <i>This counter was added on 9-7-2024</i></b>
+	</div>
+	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width= 100% align="center"/>
 	<h2><img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Home.gif" height="32px"> Overview </h2>
 	<img alt="gif" align="right" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif" width=300 height=300/>
 	<br>
@@ -43,43 +47,40 @@
 
 
 <h2 align="center">🛠️ Languages and Tools <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> </h2>
-<p align="center">  
-  <br/>
-  <br/>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-  <br/>
- <a href="https://www.jetbrains.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
-</a>
- <a href="https://www.jetbrains.com/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-</a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-</a>
-  <br/>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="50" height="50"/></a>
-  <br/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="50" height="50"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/></a>
-  <br/>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="50" height="50"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/> </a>
-  <a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="goland" width="50" height="50"/></a>
-  <br/>
-</p>
+<div>
+	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif" width= 200 align="right"/> 
+	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="90"/></a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="90" height="90"/></a>
+  	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="90" height="90"/> </a>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  width="90" height="90"/> </a>
+	<br>
+	<a href="https://www.jetbrains.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="90" height="90"/></a>
+	<a href="https://www.jetbrains.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="90" height="90"/></a>
+	<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="90" height="90"/></a>
+	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="90" height="90"/></a>
+ 	<br>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/> </a>
+	<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="90" height="90"/></a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/> </a> 
+	<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="90" height="90"/></a>
+	<br>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> </a>
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="90"/> </a>
+	<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="90" height="90"/></a>
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="90" height="90"/></a>
+	<br/>
+	<a href="https://unity.com/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="90" height="90"/></a>
+	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="90" height="90"/></a>
+	<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="90" height="90"/> </a>
+	<a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="goland" width="90" height="90"/></a>
+	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Tag.gif" width= 200 align="right"/>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+</div>
+
 
 <h2 align="center"> <img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">  Overall Stats  <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> </h2>
 
