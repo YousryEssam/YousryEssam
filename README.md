@@ -1,57 +1,45 @@
-<!--<h1 align="center">Hi 👋, I'm Yousry Essam</h1>-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Yousry+Essam)](https://git.io/typing-svg)
-<p> 
-<h2 align="center"> ITI (9-Month) program trainee ||Software Engineer || Instructor & Mentor at ICPC EELU Community || Competitive programmer || Mentor at ICPC Assuit Community </h2>
- <h6 align="center">
-  <img src="https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" />
-  <br>
-  <i>This counter was added on 9-7-2024</i></h6>
- <div align=center>
-      <img alt="gif" align="center" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif" width=300 height=300/>
+
+<h1 align="center"> ITI 9-Month program trainee || Full Stack .Net developer  || <br> Software Engineer || Competitive Programmer || <br> Instructor & Mentor at ICPC EELU ||  Mentor at ICPC Assuit </h1>
+
+<div>
+	<!-- Profile Views -->
+	<img src="https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20views&color=0e75b6&style=flat" alt="counter"/> <b> <i>This counter was added on 9-7-2024</i></b>
+	<h2><img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Home.gif" height="32px"> Overview </h2>
+	<img alt="gif" align="right" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif" width=300 height=300/>
+	<br>
+	<h3> ★ How to reach me <b>See  <a href ="#Connect" >Connect with me</a> section</h3>
+	<h3> ★ Know about my experiences from <b><a href="https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing"> my resume</a></b> </h3>
+	<h3 align="center" >&darr;&darr; Or &darr;&darr; </h3>
+	<h3> ★ See my web-based version of my re⚡ume <b><a href="https://YousryEssam.github.io"> Visit my Portfolio Website</a> </b></h3>
+</div>
+		
+<br>
+<br>
+
+<div>
+	<h2><img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Hot.png" height="32px"> Facts About Me </h2>
+	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/HardWork.gif" width = 300px align="right"/>
+	<br>
+	<h3> ★ <strong>I love coding </strong> </h3>
+	<h3> ★ <strong>ECPC Finalist 2024</strong> </h3>
+	<h3> ★ <strong>Challenges lover person</strong> </h3>
+	<h3> ★ <strong>Tech Lover and continuous learning</strong> </h3>
+	<br/>
+</div>
+<br/>
+
+<h2 align="left" id ="Connect"> <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=32 height=32> Connect with me </h2>
+<div align="left">
+	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/HelloPic.gif" width = 600px align="right"/>
+	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/g-mail.gif" height="90px">     →→→→  <a href="mailto:youssry.essam2111@gmail.com" target="_blank"> E-Mail </a> </h3>	
+	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/linkedin.gif" height="90px"> →→→→  <a href="https://www.linkedin.com/in/yousryessam/" target="_blank"> LinkedIn </a> </h3>
+	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/facebook.gif" height="90px"> →→→→  <a href="https://www.facebook.com/YousryEssamAyoub" target="_blank"> Facebook </a> </h3>
+	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/twitter.gif" height="90px">  →→→→  <a href="https://twitter.com/Yousry__Essam" target="_blank"> Twitter </a> </h3>
+	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/youtube.gif" height="90px">  →→→→  <a href="https://youtube.com/@yousry_essam" target="_blank"> YouTube </a> </h3>
 </div>
 
-<h3 align="center" >How to reach me <b>See  <a href ="#Connect" >Connect with me</a> section</h3>
- <!-- - 📫 How to reach me <b>See "Connect with me" section</b> -->
-<br/>
-<h3 align="center"> 📄 Know about my experiences from <b><a href="https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing"> my resume</a></b> 
- <br>  <br> 
- Or 
- <br> <br>
 
- 
-See my web-based version of my re⚡ume <b><a href="https://YousryEssam.github.io"> Visit my Portfolio Website</a> </b>
-</h3>
-<!-- 
-This is a , created using HTML and hosted on GitHub Pages. You can visit the live website by following the link below:
-- A fact about me <strong>I love coding </strong>
--->
-<br/>
-<br/>
- <!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/YousryEssam/count.svg?" />
-  </div>
-  <br/> -->
-</p>
-
-<h2 align="center" id ="Connect">
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=32 height=32>
-  Connect with me 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-</h2>
-<p align="center">
- <a href="mailto:youssry.essam2111@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50" width="50" />
- </a> <br/>
- <a href="https://www.linkedin.com/in/yousryessam" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yousry Essam" height="50" width="50"/>
- </a> <br/>   
-  <a href="https://codeforces.com/profile/Yousry_Essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yousry_Essam" height="50" width="50"/>
-  </a>  <br/>
-  <a href="https://www.hackerrank.com/profile/Yousry_Essam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yousry_Essam" height="50" width="50" />
-  </a>  <br/>
-  <a href="https://leetcode.com/u/Yousry_Essam" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Yousry_Essam" height="50" width="50"/>
-  </a>  <br/>
-  <a href="https://youtube.com/@yousry_essam?si=o9qn_xdH5t9q2366" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="Yousry_Essam" height="50" width="50" />
-  </a>  <br/>
-</p>
 
 
 <h2 align="center">🛠️ Languages and Tools <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> </h2>
