@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Yousry+Essam)](https://git.io/typing-svg)
 
-<h1 align="center"> ITI 9-Month program trainee || Full Stack .Net developer  || <br> Software Engineer || Competitive Programmer || <br> Instructor & Mentor at ICPC EELU ||  Mentor at ICPC Assuit </h1>
+<h1 align="center"> ITI 9-Month program trainee || Full Stack .Net developer || <br> Software Engineer || Competitive Programmer || <br> Instructor & Mentor at ICPC EELU || Mentor at ICPC Assuit</h1>
 
 <div>
 	<!-- Profile Views -->
