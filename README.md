@@ -44,9 +44,7 @@
 </div>
 
 
-
-
-<h2 align="center">🛠️ Languages and Tools <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="60"> Languages and Tools</h2>
 <div>
 	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif" width= 200 align="right"/> 
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="90"/></a>
@@ -78,27 +76,33 @@
 	<br>
 	<br>
 	<br>
-	
 </div>
 
 
-<h2 align="center"> <img style="width:50px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">  Overall Stats  <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=30 height=40> </h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/YousryEssam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=YousryEssam&hide_border=true&show_icons=true" alt="Yousry's GitHub Stats" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/YousryEssam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousryEssam&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=YousryEssam&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Yousry's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
+<h2 align="left"> <img style="width:60" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">  Overall Stats  </h2>
+<div>
+	<table align ="center" width = "100%">
+		<tr>
+			<td > 
+				 <a href="https://github.com/YousryEssam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=YousryEssam&hide_border=true&show_icons=true" alt="Yousry's GitHub Stats"/></a>
+			</td>
+			<td>
+				 <a href="https://github.com/YousryEssam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousryEssam&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan=2 align="center">
+				 <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=YousryEssam&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Yousry's GitHub Readme Streak Stats" /> </a>
+			</td>
+		</tr>
+		<tr>
+		<td colspan=2>
+			
+![snake gif](https://github.com/YousryEssam/YousryEssam/blob/main/Assets/snak.svg)
+		</td>	
+		</tr>
+	</table>
+</div>
 
 <h2 align="center">🏆 Git Profile Stats</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YousryEssam" alt="YousryEssam" /></a> </p>
