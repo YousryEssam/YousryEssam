@@ -197,7 +197,9 @@
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YousryEssam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=00D9FF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Contribution Streak"/>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=YousryEssam&theme=github-dark-blue&border_radius=20&card_width=400&card_height=200)](https://git.io/streak-stats)
+ 
 </div>
 
 
