@@ -40,9 +40,7 @@
 <br>
 <br>
 <br>
-
-
-
+<br>
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=30> **Connect With Me** | Let's Build Something Amazing Together
 
