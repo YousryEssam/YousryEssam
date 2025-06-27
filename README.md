@@ -25,24 +25,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif"/>
 
-- 🎓 **ITI 9-Month Program Trainee**
-- 💻 **Full Stack .NET Developer**
-- 🏆 **ECPC Finalist 2024**
-- 👨‍🏫 **Instructor & Mentor at ICPC EELU**
-- 🧠 **Mentor at ICPC Assiut**
-- 💡 **Passionate about problem-solving and continuous learning**
+- 🎓 **ITI 9-Month Program Trainee Graduate**
+- 🎓 **Computer Science Graduate** 
+- 💻 **Full-Stack .NET Engineer**
+- 🏆 **ECPC 2024 Finalist** - Top 13% in Egypt
+- 🥇 **3000+ Problems Solved** - Codeforces, LeetCode, HackerRank
+- 👨‍🏫 **Problem-Solving Instructor & Mentor** at ICPC EELU & ICPC Assiut
 - 🎯 **Always up for coding challenges**
+- 🚀 **AI & Web App Builder**
+- 💡 **Clean Code & Architecture Enthusiast**
+- 🔧 **Tech Stack**: C#, .NET Core, Angular, SQL Server
+- 🌟 **Continuous learner & tech explorer**
 
 ### 📄 Portfolio & Resume
 - 🌐 **Portfolio Website**: [yousryessam.github.io](https://YousryEssam.github.io)
 - 📋 **Resume**: [View My Resume](https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+###
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=30> **Connect With Me** | Let's Build Something Amazing Together
 
