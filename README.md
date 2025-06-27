@@ -1,108 +1,248 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Yousry+Essam)](https://git.io/typing-svg)
+# Hi there, I'm Yousry Essam! 👋
 
-<h1 align="center"> ITI 9-Month program trainee || Full Stack .Net developer || <br> Software Engineer || Competitive Programmer || <br> Instructor & Mentor at ICPC EELU || Mentor at ICPC Assuit</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&lines=Full+Stack+.NET+Developer;Software+Engineer;Competitive+Programmer;ICPC+Mentor+%26+Instructor;ECPC+Finalist)](https://git.io/typing-svg)
 
-<div>
-	<!-- Profile Views -->
-	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width= 100% align="center"/>
-	<div align="center">
-		<img src="https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20views&color=0e75b6&style=flat" align="center" alt="counter"/> <b> <i>This counter was added on 9-7-2024</i></b>
-	</div>
-	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width= 100% align="center"/>
-	<h2><img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Home.gif" height="32px"> Overview </h2>
-	<img alt="gif" align="right" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif" width=300 height=300/>
-	<br>
-	<h3> ★ How to reach me <b>See  <a href ="#Connect" >Connect with me</a> section</h3>
-	<h3> ★ Know about my experiences from <b><a href="https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing"> my resume</a></b> </h3>
-	<h3 align="center" >&darr;&darr; Or &darr;&darr; </h3>
-	<h3> ★ See my web-based version of my re⚡ume <b><a href="https://YousryEssam.github.io"> Visit my Portfolio Website</a> </b></h3>
+<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Line.gif" width="100%"/>
+
+
+<div align="center">
+	
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=YousryEssam&label=Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=000000)
+  ![Years Badge](https://img.shields.io/badge/Coding%20Journey-5%2B%20Years-58A6FF?style=for-the-badge&labelColor=000000)
+  ![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-58A6FF?style=for-the-badge&labelColor=000000)
+
+  ### 🚀 **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+
+  [![Follow](https://img.shields.io/github/followers/YousryEssam?label=Follow%20Me&style=social)](https://github.com/YousryEssam)
+  [![Star](https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=social)](https://github.com/YousryEssam?tab=repositories)
+
+
 </div>
-		
+
+
+## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Hot.png"  height=30> About Me
+
+<img align="right" alt="Coding" width="400" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif"/>
+
+- 🎓 **ITI 9-Month Program Trainee**
+- 💻 **Full Stack .NET Developer**
+- 🏆 **ECPC Finalist 2024**
+- 👨‍🏫 **Instructor & Mentor at ICPC EELU**
+- 🧠 **Mentor at ICPC Assiut**
+- 💡 **Passionate about problem-solving and continuous learning**
+- 🎯 **Always up for coding challenges**
+
+### 📄 Portfolio & Resume
+- 🌐 **Portfolio Website**: [yousryessam.github.io](https://YousryEssam.github.io)
+- 📋 **Resume**: [View My Resume](https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing)
+
 <br>
 <br>
-
-<div>
-	<h2><img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Hot.png" height="32px"> Facts About Me </h2>
-	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/HardWork.gif" width = 300px align="right"/>
-	<br>
-	<h3> ★ <strong>I love coding </strong> </h3>
-	<h3> ★ <strong>ECPC Finalist 2024</strong> </h3>
-	<h3> ★ <strong>Challenges lover person</strong> </h3>
-	<h3> ★ <strong>Tech Lover and continuous learning</strong> </h3>
-	<br/>
-</div>
-<br/>
-
-<h2 align="left" id ="Connect"> <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=32 height=32> Connect with me </h2>
-<div align="left">
-	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/HelloPic.gif" width = 600px align="right"/>
-	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/g-mail.gif" height="90px">     →→→→  <a href="mailto:youssry.essam2111@gmail.com" target="_blank"> E-Mail </a> </h3>	
-	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/linkedin.gif" height="90px"> →→→→  <a href="https://www.linkedin.com/in/yousryessam/" target="_blank"> LinkedIn </a> </h3>
-	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/facebook.gif" height="90px"> →→→→  <a href="https://www.facebook.com/YousryEssamAyoub" target="_blank"> Facebook </a> </h3>
-	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/twitter.gif" height="90px">  →→→→  <a href="https://twitter.com/Yousry__Essam" target="_blank"> Twitter </a> </h3>
-	<h3> <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/youtube.gif" height="90px">  →→→→  <a href="https://youtube.com/@yousry_essam" target="_blank"> YouTube </a> </h3>
-</div>
+<br>
 
 
-<h2 align="left"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="60"> Languages and Tools</h2>
-<div>
-	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif" width= 200 align="right"/> 
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="90" height="90"/></a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="90" height="90"/></a>
-  	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="90" height="90"/> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  width="90" height="90"/> </a>
-	<br>
-	<a href="https://www.jetbrains.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="90" height="90"/></a>
-	<a href="https://www.jetbrains.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="90" height="90"/></a>
-	<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="90" height="90"/></a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="90" height="90"/></a>
- 	<br>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/> </a>
-	<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="90" height="90"/></a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/> </a> 
-	<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="90" height="90"/></a>
-	<br>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="90" height="90"/> </a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="90" height="90"/> </a>
-	<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="90" height="90"/></a>
-	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="90" height="90"/></a>
-	<br/>
-	<a href="https://unity.com/" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="90" height="90"/></a>
-	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="90" height="90"/></a>
-	<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="90" height="90"/> </a>
-	<a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg" alt="goland" width="90" height="90"/></a>
-	<img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Tag.gif" width= 200 align="right"/>
-	<br>
-	<br>
-	<br>
-	<br>
+
+
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=30> **Connect With Me** | Let's Build Something Amazing Together
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yousryessam"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="71" height="51" alt="linkedin logo" />
+  </a>
+  <a href="mailto:yousry.essam.ayoub@gmail.com"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="71" height="51" alt="gmail logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/26749217/yousry-essam" style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="71" height="51" alt="stackoverflow logo" />
+  </a>
+  <a href="https://www.hackerrank.com/Yousry_Essam"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="71" height="51" alt="hackerrank logo" />
+  </a>
+  <a href="https://twitter.com/Yousry__Essam"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="71" height="51" alt="twitter logo" />
+  </a>
+  <a href="https://www.youtube.com/@Yousry_Essam"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="71" height="51" alt="youtube logo" />
+  </a>
+  <a href="https://www.facebook.com/YousryEssamAyoub"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="71" height="51" alt="facebook logo" />
+  </a>
+  <a href="https://www.instagram.com/yousry__essam"  style="text-decoration: none;" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="71" height="51" alt="instagram logo" />
+  </a>
 </div>
 
 
-<h2 align="left"> <img style="width:60" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">  Overall Stats  </h2>
-<div>
-	<table align ="center" width = "100%">
-		<tr>
-			<td > 
-				 <a href="https://github.com/YousryEssam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=YousryEssam&hide_border=true&show_icons=true" alt="Yousry's GitHub Stats"/></a>
-			</td>
-			<td>
-				 <a href="https://github.com/YousryEssam/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousryEssam&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-			</td>
-		</tr>
-		<tr>
-			<td colspan=2 align="center">
-				 <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=YousryEssam&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Yousry's GitHub Readme Streak Stats" /> </a>
-			</td>
-		</tr>
-		<tr>
-		<td colspan=2>
-			
-![snake gif](https://github.com/YousryEssam/YousryEssam/blob/main/Assets/snak.svg)
-		</td>	
-		</tr>
-	</table>
+## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif"  height=30> Technical Skills & Tools
+
+
+### Languages
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
 
-<h2 align="center">🏆 Git Profile Stats</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YousryEssam" alt="YousryEssam" /></a> </p>
+### Backend
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-Advanced-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=000000" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-Expert-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=000000" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-Advanced-00D9FF?style=for-the-badge&logo=swagger&logoColor=white&labelColor=000000" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/SignalR-Real_Time-FF6B6B?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-4ECDC4?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Microservices" />
+</div>
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+</div>
+
+
+### Databases
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+</div>
+
+### Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-Advanced-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000" alt="Angular" />
+  <img src="https://img.shields.io/badge/Blazor-Expert-512BD4?style=for-the-badge&logo=blazor&logoColor=white&labelColor=000000" alt="Blazor" />
+</p>
+
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angularjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
+</div>
+
+
+### Development Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="60" alt="goland logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo"  />
+</div>
+
+
+
+
+
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  height=30> **GitHub Analytics** - *Data That Tells My Story*
+> *Data-driven insights that showcase my development journey*
+
+
+
+### 🔍 Profile Overview
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YousryEssam&theme=github_dark&hide_border=true" alt="GitHub Profile Summary"/>
+</div>
+
+
+
+### 📈 Core Statistics
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YousryEssam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=650&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousryEssam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="200" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+### 🔥 Contribution Streak
+<div align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YousryEssam&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=00D9FF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Contribution Streak"/>
+</div>
+
+
+
+### 📊 Activity Graph
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YousryEssam&radius=20&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=YousryEssam&theme=onedark&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false&hide_border=true" alt="GitHub Trophies"/>
+</div>
+
+
+
+## Pacman Contribution graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/pacman-contribution-graph.svg">
+</picture>
+
+## Snake animation
+
+<img src="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/snake.svg" alt="Snake animation" />
+
+
+## Quote
+
+### 💭 **Daily Motivation**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
+
+---
+<div align="center">
+  <i>✨ "Code is poetry written in logic" ✨</i>
+</div>
