@@ -230,12 +230,15 @@
 <img src="https://raw.githubusercontent.com/YousryEssam/YousryEssam/output/snake.svg" alt="Snake animation" />
 
 
-## Quote
 
-### 💭 **Daily Motivation**
+## 💭 **Motivation Quote**
+<div align="center">
+	
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson)
+</div>
 
 ---
+
 <div align="center">
   <i>✨ "Code is poetry written in logic" ✨</i>
 </div>
