@@ -21,7 +21,7 @@
 </div>
 
 
-## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Hot.png"  height=30> About Me
+## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/Hot.png"  height=40> About Me
 
 <img align="right" alt="Coding" width="400" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif"/>
 
@@ -43,7 +43,7 @@
 
 ###
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=30> **Connect With Me** | Let's Build Something Amazing Together
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif"  height=40> **Connect With Me** | Let's Build Something Amazing Together
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yousryessam"  style="text-decoration: none;" target="_blank">
@@ -72,8 +72,21 @@
   </a>
 </div>
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" height=40> My Competitive Programming Profiles
 
-## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif"  height=30> Technical Skills & Tools
+<div align="center" width=100%>
+  <a href="https://codeforces.com/profile/Yousry_Essam"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+	  &emsp; 
+	<a href="https://leetcode.com/Yousry_Essam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	  &emsp; 
+	<a href="https://atcoder.jp/users/Yousry_Essam"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.codechef.com/users/Yousry_Essam"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	  &emsp; 
+	<a href="https://www.codingame.com/profile/238240177a719b80e502a0de5c471a1e7807474" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
+</div>
+
+## <img src="https://github.com/YousryEssam/YousryEssam/blob/main/Assets/tech.gif"  height=40> Technical Skills & Tools
 
 
 ### Languages
