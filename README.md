@@ -38,7 +38,7 @@
 - 🌟 **Continuous learner & tech explorer**
 
 ### 📄 Portfolio & Resume
-- 🌐 **Portfolio Website**: [yousryessam.github.io](https://YousryEssam.github.io)
+- 🌐 **Portfolio Website**: [Yousry Essam Portfolio](https://yousryessam.github.io/Yousry_Essam.Portfolio)
 - 📋 **Resume**: [View My Resume](https://drive.google.com/drive/folders/1Z73y3BaZLPars2UJrMFBgqyng6VEb1lJ?usp=sharing)
 
 ###
