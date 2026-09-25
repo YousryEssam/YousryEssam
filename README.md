@@ -25,15 +25,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/YousryEssam/YousryEssam/blob/main/git.gif"/>
 
-- 🎓 **ITI 9-Month Program Trainee Graduate**
+- 🎓 **ITI 9-Month Program Graduate - Intake45**
 - 🎓 **Computer Science Graduate** 
 - 💻 **Full-Stack .NET Engineer**
 - 🏆 **ECPC 2024 Finalist** - Top 13% in Egypt
-- 🥇 **3000+ Problems Solved** - Codeforces, LeetCode, HackerRank
+- 🥇 **3500+ Problems Solved** - Codeforces, LeetCode, HackerRank
 - 👨‍🏫 **Problem-Solving Instructor & Mentor** at ICPC EELU & ICPC Assiut
 - 🎯 **Always up for coding challenges**
-- 🚀 **AI & Web App Builder**
-- 💡 **Clean Code & Architecture Enthusiast**
 - 🔧 **Tech Stack**: C#, .NET Core, Angular, SQL Server
 - 🌟 **Continuous learner & tech explorer**
 
